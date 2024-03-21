@@ -1,0 +1,30 @@
+Security and Resiliency Principles 
+-----------------------------------
+
+Overarching Principles 
+
+1. Simplicity
+Ensure the architecture is straightforward to design and comprehend. This reduces potential errors, simplifies maintenance, and facilitates easier updates and modifications.
+
+2. Explainability
+Design in a manner that is accessible and understandable, even to those without technical expertise. This involves using clear terminology and avoiding unnecessary complexity.
+
+3. Transparency
+Maintain openness in the design and operational mechanisms of the architecture. This includes knowing even all the minor components that contribute to your architecture. 
+
+4. Relatability
+Ensure the client's team can efficiently operate and manage the architecture. This requires aligning the design with the team’s skills, experiences, and operational capabilities.
+
+5. Commercially Viable
+Acknowledge and design within the constraints of the client's budget and operational expense capacity. This involves choosing cost-effective technologies and approaches that meet the project's requirements without exceeding financial limits.
+
+6. Clarity
+Provide clear, factual reasons for design choices. This involves justifying decisions with evidence, case studies, or logical reasoning to support the chosen direction.
+
+Security Principles 
+
+
+
+Resiliency Principles 
+
+
