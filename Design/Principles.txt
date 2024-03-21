@@ -15,16 +15,12 @@ Maintain openness in the design and operational mechanisms of the architecture. 
 4. Relatability
 Ensure the client's team can efficiently operate and manage the architecture. This requires aligning the design with the team’s skills, experiences, and operational capabilities.
 
-5. Commercially Viable
+5. Commercially Viability
 Acknowledge and design within the constraints of the client's budget and operational expense capacity. This involves choosing cost-effective technologies and approaches that meet the project's requirements without exceeding financial limits.
 
 6. Clarity
 Provide clear, factual reasons for design choices. This involves justifying decisions with evidence, case studies, or logical reasoning to support the chosen direction.
 
-Security Principles 
+Security Principles
 
-
-
-Resiliency Principles 
-
-
+1. 
